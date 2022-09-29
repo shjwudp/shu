@@ -1,21 +1,5 @@
-[README in English](./README_EN.md)
-
 我发现，目前中文自然语言语料，可用开源书籍资料匮乏，因此开这个仓库用来收集整理版权归公众所有的书籍，供学者和工业生产使用。
 
-## 使用指南
+To date, there is a lack of open source books available for Chinese natural language processing. The purpose of launching this repository is to collect open copyright Chinese books for use by scholars and industrial production.
 
-整理到的书籍在`books`目录下面，书籍索引见`index.csv`。
-
-## 项目贡献
-
-欢迎勘误！欢迎贡献优质中文书籍！
-
-### 添加新书
-
-在书籍添加前，强烈建议您使用`ill_ocr_patterns.txt`列表中的正则表达式搜索书籍中可能出现的OCR错误并更正他们。
-
-希望您贡献书籍的所有内容都是版权归公众所有的。
-
-## 最后
-
-祝所有自然语言开发者们工作顺利！
+[更多说明](docs/使用说明.md) | [MORE ABOUT](docs/usage.md)
