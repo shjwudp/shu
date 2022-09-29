@@ -1,11 +1,9 @@
 ---
-modified: 2022-09-29T14:58:09.428Z
+modified: 2022-09-29T15:00:49.188Z
 title: null
 ---
 
-[使用说明](./README.md)
-
-To date, there is a lack of open source books available for Chinese natural language processing. The purpose of launching this repository is to collect open copyright Chinese books for use by scholars and industrial production.
+[使用说明](./使用说明.md)
 
 ## Usage
 
