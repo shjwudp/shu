@@ -22,18 +22,6 @@ def parse_args():
     return args
 
 
-def is_bad_line(line):
-    ending_punctuations = ["。", "！", "？", "……", "”", "\""]
-    if not any(line.endswith(punc) for punc in ending_punctuations):
-        return True
-
-    ill_word_regex = "[-]|□|■|\*"
-    if re.search(ill_word_regex, line) != None:
-        return True
-
-    return False
-
-
 def main():
     args = parse_args()
 

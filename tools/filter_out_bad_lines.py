@@ -1,4 +1,4 @@
-"""Used to filter out sick or poorly formatted text.
+"""Used to filter out ill or bad formatted text.
 
 Instructions:
 ```bash
@@ -28,7 +28,7 @@ def is_bad_line(line):
     if not any(line.endswith(punc) for punc in ending_punctuations):
         return True
 
-    ill_word_regex = "[-]|□|■|\*"
+    ill_word_regex = "[-]|□|■|\*"
     if re.search(ill_word_regex, line) != None:
         return True
 
