@@ -1,42 +1,44 @@
-﻿书名,Book Title,Author,Published date
-红楼梦,The Dream of the Red Chamber,曹雪芹、高鶚, 18th century
-三国演义,Romance of Three Kingdoms,罗贯中,14th century
-水浒传,All Men Are Brothers,施耐庵,14th century
-西游记,Journey to the West,吳承恩,1592 AD
-资治通鉴,History as a Mirror,司馬光,1084 AD
-道德经,The Tao-te Ching,老子,-
-诗经,The Canon of Poetry,unkown,7th century BC
-论语,The Analects of Confucius,孔子,5th century BC
-梦溪笔谈,The Dream Pool Essays,沈括,11th century
-本草纲目,Herbal Foundation Compendium,李时珍,1596 AD 
-史记,The Records of the Grand Historian,司马迁,90's BC
-春秋左传,Chun Qiu Zuo Zhuan,左丘明,468 BC-300 BC
-曾国藩家书,Zeng Guo Fan Jia Shu,曾国藩,19th century
-孙子兵法,The Art of War,孙武,515 BC-512 BC
-儒林外史,The Scholars,吴敬梓,16th century
-天工开物,Tian Gong Kai Wu,宋應星,1637 AD
-隋唐演义,Heroes in Sui and Tang Dynasties,褚人穫,1695
-雷峰塔奇传,Lei Feng Ta Qi Chuan,玉花堂主人,1806
-边城,Border Town,沈从文,1936
-呐喊,Call to Arms,鲁迅,1923
-韩非子,Hanfeizi,韩非,3th century BC
-墨子,Mozi,墨翟,5th century BC
-淮南子,Huainanzi,劉安,2th century BC
-盐铁论,DISCOURSES ON SALT AND IRON,桓寬,1th century BC
-封神演义,Investiture of the Gods,许仲琳,16th century
-战国策,Stratagems of the Warring States,劉向,-
-太平广记,Taiping guangji,李昉、扈蒙、李穆、徐铉、赵邻几、王克贞、宋白、吕文仲,978 AD
-吕氏春秋,The Annals of Lu Buwei,呂不韋,239 BC
-尚书,The Shoo King or the Book of Historical Documents,-,-
-昭明文选,Literary Anthology by Prince Chao Ming,萧统、张缵、张率、张缅、刘孝绰、到洽、陆倕、王筠、王锡、谢举、王规,6th century
-南方草木状,NanFangCaoMuZhuang,嵇含,3th-5th century
-庄子,The Book of Chuang Tzu,庄子,4th century BC
-骆驼祥子,TeaHouse & Camel Xiangzi,老舍,1937
-京华烟云,Moment in Peking,林语堂,1939
-长河,Changhe,沈从文,1938
-倾城之恋,Love in a Fallen City,张爱玲,1943
-毛泽东选集,Selected Works of Mao tse tung Volume 4,毛泽东,1950
-受戒,Shoujie,汪曾祺,1980
-回忆鲁迅先生,Memory of Lu Xun,萧红,1939
-风声鹤唳,A Leaf in the Storm,林语堂,1941
-朱门,The Vermillion Gate,林语堂,1953
+﻿书名,Book Title,Author,Published date,Last Modified
+红楼梦,The Dream of the Red Chamber,曹雪芹、高鶚, 18th century,2022/10/9
+三国演义,Romance of Three Kingdoms,罗贯中,14th century,2022/10/9
+水浒传,All Men Are Brothers,施耐庵,14th century,2022/10/9
+西游记,Journey to the West,吳承恩,1592 AD,2022/10/9
+资治通鉴,History as a Mirror,司馬光,1084 AD,2022/10/9
+道德经,The Tao-te Ching,老子,-,2022/10/9
+诗经,The Canon of Poetry,unkown,7th century BC,2022/10/9
+论语,The Analects of Confucius,孔子,5th century BC,2022/10/9
+梦溪笔谈,The Dream Pool Essays,沈括,11th century,2022/10/9
+本草纲目,Herbal Foundation Compendium,李时珍,1596 AD ,2022/10/9
+史记,The Records of the Grand Historian,司马迁,90's BC,2022/10/9
+春秋左传,Chun Qiu Zuo Zhuan,左丘明,468 BC-300 BC,2022/10/9
+曾国藩家书,Zeng Guo Fan Jia Shu,曾国藩,19th century,2022/10/9
+孙子兵法,The Art of War,孙武,515 BC-512 BC,2022/10/9
+儒林外史,The Scholars,吴敬梓,16th century,2022/10/9
+天工开物,Tian Gong Kai Wu,宋應星,1637 AD,2022/10/9
+隋唐演义,Heroes in Sui and Tang Dynasties,褚人穫,1695,2022/10/9
+雷峰塔奇传,Lei Feng Ta Qi Chuan,玉花堂主人,1806,2022/10/9
+边城,Border Town,沈从文,1936,2022/10/9
+呐喊,Call to Arms,鲁迅,1923,2022/10/9
+韩非子,Hanfeizi,韩非,3th century BC,2022/10/9
+墨子,Mozi,墨翟,5th century BC,2022/10/9
+淮南子,Huainanzi,劉安,2th century BC,2022/10/9
+盐铁论,DISCOURSES ON SALT AND IRON,桓寬,1th century BC,2022/10/9
+封神演义,Investiture of the Gods,许仲琳,16th century,2022/10/9
+战国策,Stratagems of the Warring States,劉向,-,2022/10/9
+太平广记,Taiping guangji,李昉、扈蒙、李穆、徐铉、赵邻几、王克贞、宋白、吕文仲,978 AD,2022/10/9
+吕氏春秋,The Annals of Lu Buwei,呂不韋,239 BC,2022/10/9
+尚书,The Shoo King or the Book of Historical Documents,-,-,2022/10/9
+昭明文选,Literary Anthology by Prince Chao Ming,萧统、张缵、张率、张缅、刘孝绰、到洽、陆倕、王筠、王锡、谢举、王规,6th century,2022/10/9
+南方草木状,NanFangCaoMuZhuang,嵇含,3th-5th century,2022/10/9
+庄子,The Book of Chuang Tzu,庄子,4th century BC,2022/10/9
+骆驼祥子,TeaHouse & Camel Xiangzi,老舍,1937,2022/10/9
+京华烟云,Moment in Peking,林语堂,1939,2022/10/9
+长河,Changhe,沈从文,1938,2022/10/9
+倾城之恋,Love in a Fallen City,张爱玲,1943,2022/10/9
+毛泽东选集,Selected Works of Mao tse tung Volume 4,毛泽东,1950,2022/10/9
+受戒,Shoujie,汪曾祺,1980,2022/10/9
+回忆鲁迅先生,Memory of Lu Xun,萧红,1939,2022/10/9
+风声鹤唳,A Leaf in the Storm,林语堂,1941,2022/10/9
+朱门,The Vermillion Gate,林语堂,1953,2022/10/9
+庐隐文集,Anthology of Lu Yin,庐隐,1998,2022/10/9
+皇华纪闻,Huang Hua Ji Wen,王士祯,~17th century,2022/10/9
