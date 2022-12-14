@@ -24,11 +24,11 @@ def parse_args():
 
 
 def is_bad_line(line):
-    ending_punctuations = ["。", "！", "？", "……", "”", "\""]
+    ending_punctuations = ["。", "！", "？", "……", "”", "："]
     if not any(line.endswith(punc) for punc in ending_punctuations):
         return True
 
-    ill_word_regex = "[-]|□|■|\*"
+    ill_word_regex = "[-]|□|■|[①-⑳]|[⑴-⒇]|[㈠-㈩]|[⒈-⒓]|\*"
     if re.search(ill_word_regex, line) != None:
         return True
 
