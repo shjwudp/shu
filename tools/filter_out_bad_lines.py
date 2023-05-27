@@ -24,11 +24,14 @@ def parse_args():
 
 
 def is_bad_line(line):
-    ending_punctuations = ["。", "！", "？", "……", "”", "："]
+    ending_punctuations = [
+        "。", "！", "？", "……", "”", "：", "」", "—", "；", "’", "，", "）",
+        ".", ",", "\"",
+    ]
     if not any(line.endswith(punc) for punc in ending_punctuations):
         return True
 
-    ill_word_regex = "[-]|□|■|[①-⑳]|[⑴-⒇]|[㈠-㈩]|[⒈-⒓]|\*"
+    ill_word_regex = "[-]|□|■|�"
     if re.search(ill_word_regex, line) != None:
         return True
 
@@ -50,7 +53,7 @@ def main():
             else:
                 output.append(line)
 
-        if len(output) > 0:
+        if len(output) > 10:
             j["text"] = '\n'.join(output)
             print(json.dumps(j, ensure_ascii=False))
 
